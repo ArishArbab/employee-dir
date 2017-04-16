@@ -1,0 +1,14 @@
+{
+  "name": "employee-dir-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "postinstall": "bower install"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "express": "~4.14.1",
+    "mongoose": "^4.9.3"
+  }
+}
