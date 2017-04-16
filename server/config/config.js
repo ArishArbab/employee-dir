@@ -3,6 +3,6 @@ module.exports = {
             port:process.env.PORT || 8080
     },
     database: {
-        url: 'mongodb://localhost/employee-dir'
+        url: 'mongodb://employeeadmin:arishedureka@ds111188.mlab.com:11188/employee-dir'
     }
 }
